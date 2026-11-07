@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://go-away.lol"><img src="banner.png" alt="go-away.lol" width="100%"></a>
+  <a href="https://go-away.lol"><img src="banner-a.png" alt="go-away.lol" width="100%"></a>
 </p>
 
 <h3 align="center">Privacy tools that work for you, not for advertisers.</h3>
